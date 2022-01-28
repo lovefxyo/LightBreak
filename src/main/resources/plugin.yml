@@ -1,0 +1,10 @@
+name: LightBreak
+version: '${project.version}'
+main: org.nick.lightbreak.LightBreak
+api-version: 1.16
+commands:
+  lightbreak:
+    description: LightBreak to prevent break.
+    aliases: lbk
+    permission: lightbreak.use
+    permission-message: "你没有使用此命令的权限"
