@@ -1,0 +1,11 @@
+pluginname: '[LightBreak]'
+reload: '插件已被重载'
+successadd: '现已添加，可以被破坏'
+successdel: '现已删除，不可被破坏'
+list: '可被破坏方块列表为：'
+noneblock: '你必须手持一个方块!'
+enable: '插件开启'
+disable: '插件已关闭'
+exist: '方块已存在'
+notexist: '方块不存在'
+

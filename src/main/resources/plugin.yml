@@ -8,3 +8,22 @@ commands:
     aliases: lbk
     permission: lightbreak.use
     permission-message: "你没有使用此命令的权限"
+permissions:
+  lightbreak.canbreak:
+    description: 可以破坏的权限
+    default: op
+  lightbreak.reload:
+    description: 可以使用reload的权限
+    default: op
+  lightbreak.enable:
+    description: 可以使用on和off的权限
+    default: op
+  lightbreak.list:
+    description: 可以使用list的权限
+    default: op
+  lightbreak.del:
+    description: 可以使用del的权限
+    default: op
+  lightbreak.add:
+    description: 可以使用add的权限
+    default: op
